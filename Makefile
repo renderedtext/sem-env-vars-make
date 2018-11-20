@@ -1,0 +1,2 @@
+all: 
+	echo $(SEMAPHORE_PIPELINE_ID)
